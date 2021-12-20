@@ -11,7 +11,7 @@ apt-get install php7.4 php7.4-mysql
 ### INSTALLATION & LAUNCHING OF THE APPLICATION
 
 ```
-git clone https://github.com/OmarAouaj/VulnerableWebApp.git
+git clone https://github.com/Sniper099/VulnerableWebApp.git
 ```
 
 On mysql console:
